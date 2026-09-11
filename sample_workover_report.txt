@@ -1,0 +1,10 @@
+OIL INDIA LIMITED - FIELD SAFETY OBSERVATION REPORT
+Date: 2026-09-09
+Installation: Duliajan Central Field
+Asset: Wellhead Isolation Master Valve MV-104
+Activity: Workover / Well Intervention
+Severity: Critical
+Narrative:
+During night shift maintenance on Workover Rig WOR-07 wellhead cellar, technician observed that the master gate valve was closed but not depressurized. Residual trapped pressure of 45 psi remained in the line while workers were present inside the cellar. Zero-energy gauge verification was omitted and the isolation permit lacked four-eyes independent signature.
+Immediate Action:
+Work halted immediately by safety supervisor; bleed-off valve opened through flare separator to relieve residual trapped pressure.
